@@ -1,0 +1,1471 @@
+EmpId,Attrition,Department
+100001,Yes,Sales
+100002,No,Research & Development
+100003,Yes,Research & Development
+100004,No,Research & Development
+100005,No,Research & Development
+100006,No,Research & Development
+100007,No,Research & Development
+100008,No,Research & Development
+100009,No,Research & Development
+100010,No,Research & Development
+100011,No,Research & Development
+100012,No,Research & Development
+100013,No,Research & Development
+100014,No,Research & Development
+100015,Yes,Research & Development
+100016,No,Research & Development
+100017,No,Research & Development
+100018,No,Research & Development
+100019,No,Sales
+100020,No,Research & Development
+100021,No,Research & Development
+100022,Yes,Sales
+100023,No,Research & Development
+100024,No,Research & Development
+100025,Yes,Research & Development
+100026,No,Research & Development
+100027,Yes,Research & Development
+100028,No,Sales
+100029,No,Research & Development
+100030,No,Sales
+100031,No,Research & Development
+100032,No,Research & Development
+100033,No,Research & Development
+100034,Yes,Sales
+100035,Yes,Research & Development
+100036,No,Research & Development
+100037,Yes,Sales
+100038,No,Sales
+100039,No,Research & Development
+100040,No,Sales
+100041,No,Research & Development
+100042,No,Research & Development
+100043,Yes,Research & Development
+100044,No,Sales
+100045,No,Research & Development
+100046,Yes,Research & Development
+100047,No,Sales
+100048,No,Research & Development
+100049,No,Sales
+100050,No,Research & Development
+100051,Yes,Research & Development
+100052,Yes,Research & Development
+100053,No,Sales
+100054,No,Research & Development
+100055,No,Sales
+100056,No,Research & Development
+100057,No,Sales
+100058,No,Research & Development
+100059,No,Research & Development
+100060,No,Research & Development
+100061,No,Research & Development
+100062,No,Research & Development
+100063,No,Research & Development
+100064,No,Sales
+100065,No,Research & Development
+100066,No,Research & Development
+100067,No,Research & Development
+100068,No,Research & Development
+100069,No,Research & Development
+100070,Yes,Research & Development
+100071,No,Sales
+100072,No,Research & Development
+100073,No,Research & Development
+100074,No,Research & Development
+100075,No,Research & Development
+100076,No,Research & Development
+100077,No,Sales
+100078,No,Research & Development
+100079,No,Research & Development
+100080,No,Human Resources
+100081,No,Research & Development
+100082,No,Research & Development
+100083,No,Sales
+100084,No,Research & Development
+100085,No,Research & Development
+100086,No,Research & Development
+100087,No,Sales
+100088,No,Research & Development
+100089,No,Research & Development
+100090,Yes,Sales
+100091,No,Research & Development
+100092,No,Sales
+100093,No,Sales
+100094,No,Research & Development
+100095,No,Sales
+100096,No,Research & Development
+100097,No,Sales
+100098,No,Sales
+100099,No,Sales
+100100,No,Research & Development
+100101,Yes,Human Resources
+100102,No,Research & Development
+100103,Yes,Research & Development
+100104,No,Research & Development
+100105,No,Research & Development
+100106,No,Human Resources
+100107,No,Research & Development
+100108,Yes,Sales
+100109,No,Research & Development
+100110,No,Research & Development
+100111,No,Research & Development
+100112,Yes,Research & Development
+100113,No,Human Resources
+100114,No,Research & Development
+100115,No,Research & Development
+100116,No,Sales
+100117,No,Research & Development
+100118,No,Sales
+100119,No,Research & Development
+100120,No,Sales
+100121,No,Research & Development
+100122,No,Sales
+100123,Yes,Research & Development
+100124,No,Research & Development
+100125,Yes,Sales
+100126,No,Research & Development
+100127,Yes,Research & Development
+100128,Yes,Sales
+100129,No,Research & Development
+100130,No,Research & Development
+100131,No,Research & Development
+100132,No,Sales
+100133,Yes,Sales
+100134,No,Sales
+100135,No,Human Resources
+100136,No,Research & Development
+100137,Yes,Research & Development
+100138,No,Sales
+100139,No,Sales
+100140,No,Human Resources
+100141,Yes,Research & Development
+100142,No,Research & Development
+100143,No,Research & Development
+100144,No,Research & Development
+100145,No,Sales
+100146,No,Research & Development
+100147,No,Research & Development
+100148,No,Research & Development
+100149,No,Research & Development
+100150,No,Research & Development
+100151,No,Research & Development
+100152,No,Sales
+100153,No,Sales
+100154,No,Research & Development
+100155,No,Sales
+100156,No,Research & Development
+100157,No,Research & Development
+100158,No,Research & Development
+100159,No,Sales
+100160,No,Sales
+100161,No,Research & Development
+100162,No,Research & Development
+100163,No,Research & Development
+100164,No,Research & Development
+100165,No,Research & Development
+100166,No,Research & Development
+100167,No,Research & Development
+100168,No,Sales
+100169,No,Sales
+100170,No,Research & Development
+100171,No,Research & Development
+100172,Yes,Sales
+100173,No,Research & Development
+100174,No,Research & Development
+100175,No,Sales
+100176,No,Research & Development
+100177,No,Research & Development
+100178,Yes,Research & Development
+100179,No,Sales
+100180,No,Research & Development
+100181,No,Research & Development
+100182,No,Research & Development
+100183,Yes,Sales
+100184,No,Research & Development
+100185,No,Research & Development
+100186,No,Research & Development
+100187,No,Research & Development
+100188,No,Research & Development
+100189,No,Research & Development
+100190,No,Research & Development
+100191,No,Research & Development
+100192,No,Research & Development
+100193,Yes,Research & Development
+100194,No,Research & Development
+100195,No,Research & Development
+100196,No,Research & Development
+100197,No,Research & Development
+100198,No,Research & Development
+100199,No,Research & Development
+100200,No,Research & Development
+100201,No,Research & Development
+100202,No,Research & Development
+100203,No,Research & Development
+100204,No,Research & Development
+100205,Yes,Research & Development
+100206,Yes,Sales
+100207,No,Research & Development
+100208,No,Research & Development
+100209,No,Research & Development
+100210,No,Research & Development
+100211,Yes,Sales
+100212,No,Research & Development
+100213,No,Sales
+100214,No,Research & Development
+100215,Yes,Research & Development
+100216,No,Sales
+100217,Yes,Sales
+100218,Yes,Research & Development
+100219,No,Sales
+100220,No,Sales
+100221,No,Research & Development
+100222,No,Research & Development
+100223,No,Research & Development
+100224,No,Sales
+100225,No,Research & Development
+100226,No,Research & Development
+100227,No,Sales
+100228,No,Sales
+100229,No,Sales
+100230,Yes,Research & Development
+100231,No,Research & Development
+100232,No,Research & Development
+100233,No,Human Resources
+100234,No,Sales
+100235,Yes,Research & Development
+100236,No,Sales
+100237,Yes,Research & Development
+100238,No,Sales
+100239,No,Sales
+100240,Yes,Research & Development
+100241,No,Research & Development
+100242,No,Sales
+100243,No,Research & Development
+100244,No,Research & Development
+100245,No,Research & Development
+100246,No,Research & Development
+100247,No,Research & Development
+100248,No,Research & Development
+100249,No,Research & Development
+100250,No,Research & Development
+100251,Yes,Research & Development
+100252,No,Research & Development
+100253,No,Research & Development
+100254,No,Research & Development
+100255,No,Sales
+100256,No,Research & Development
+100257,No,Research & Development
+100258,No,Research & Development
+100259,No,Research & Development
+100260,Yes,Research & Development
+100261,No,Research & Development
+100262,No,Sales
+100263,No,Research & Development
+100264,No,Sales
+100265,Yes,Research & Development
+100266,No,Sales
+100267,No,Research & Development
+100268,No,Research & Development
+100269,No,Research & Development
+100270,No,Research & Development
+100271,No,Research & Development
+100272,Yes,Research & Development
+100273,No,Research & Development
+100274,No,Sales
+100275,No,Research & Development
+100276,No,Research & Development
+100277,No,Research & Development
+100278,No,Sales
+100279,No,Research & Development
+100280,No,Research & Development
+100281,No,Research & Development
+100282,No,Sales
+100283,No,Sales
+100284,No,Research & Development
+100285,No,Research & Development
+100286,No,Research & Development
+100287,Yes,Research & Development
+100288,No,Research & Development
+100289,Yes,Research & Development
+100290,No,Research & Development
+100291,No,Research & Development
+100292,No,Research & Development
+100293,No,Sales
+100294,Yes,Sales
+100295,No,Research & Development
+100296,No,Sales
+100297,Yes,Research & Development
+100298,No,Sales
+100299,No,Research & Development
+100300,No,Research & Development
+100301,No,Sales
+100302,No,Sales
+100303,No,Research & Development
+100304,No,Sales
+100305,No,Research & Development
+100306,No,Research & Development
+100307,No,Sales
+100308,No,Research & Development
+100309,No,Research & Development
+100310,No,Research & Development
+100311,No,Human Resources
+100312,No,Research & Development
+100313,No,Research & Development
+100314,No,Research & Development
+100315,No,Research & Development
+100316,No,Research & Development
+100317,No,Research & Development
+100318,Yes,Research & Development
+100319,No,Research & Development
+100320,No,Sales
+100321,No,Sales
+100322,No,Sales
+100323,No,Research & Development
+100324,Yes,Research & Development
+100325,No,Research & Development
+100326,No,Research & Development
+100327,No,Research & Development
+100328,Yes,Sales
+100329,No,Sales
+100330,No,Research & Development
+100331,No,Research & Development
+100332,No,Sales
+100333,No,Research & Development
+100334,No,Research & Development
+100335,No,Research & Development
+100336,No,Sales
+100337,Yes,Research & Development
+100338,No,Research & Development
+100339,No,Sales
+100340,No,Sales
+100341,No,Research & Development
+100342,No,Research & Development
+100343,No,Research & Development
+100344,No,Sales
+100345,No,Research & Development
+100346,No,Research & Development
+100347,No,Research & Development
+100348,No,Sales
+100349,No,Research & Development
+100350,No,Sales
+100351,No,Human Resources
+100352,No,Research & Development
+100353,No,Sales
+100354,No,Research & Development
+100355,No,Sales
+100356,No,Sales
+100357,No,Research & Development
+100358,Yes,Sales
+100359,No,Sales
+100360,No,Sales
+100361,No,Research & Development
+100362,No,Research & Development
+100363,No,Sales
+100364,Yes,Sales
+100365,No,Research & Development
+100366,No,Research & Development
+100367,Yes,Sales
+100368,No,Research & Development
+100369,Yes,Sales
+100370,No,Research & Development
+100371,Yes,Sales
+100372,No,Research & Development
+100373,No,Research & Development
+100374,No,Research & Development
+100375,No,Sales
+100376,No,Research & Development
+100377,No,Sales
+100378,No,Research & Development
+100379,Yes,Sales
+100380,No,Research & Development
+100381,No,Sales
+100382,No,Sales
+100383,Yes,Research & Development
+100384,No,Research & Development
+100385,No,Sales
+100386,Yes,Research & Development
+100387,No,Research & Development
+100388,No,Sales
+100389,No,Research & Development
+100390,No,Research & Development
+100391,No,Research & Development
+100392,No,Research & Development
+100393,No,Research & Development
+100394,No,Sales
+100395,No,Research & Development
+100396,No,Research & Development
+100397,No,Research & Development
+100398,No,Sales
+100399,No,Research & Development
+100400,No,Research & Development
+100401,No,Research & Development
+100402,No,Sales
+100403,No,Sales
+100404,No,Sales
+100405,No,Research & Development
+100406,Yes,Research & Development
+100407,No,Research & Development
+100408,No,Research & Development
+100409,No,Research & Development
+100410,No,Research & Development
+100411,No,Research & Development
+100412,No,Research & Development
+100413,No,Research & Development
+100414,No,Research & Development
+100415,Yes,Sales
+100416,Yes,Sales
+100417,No,Research & Development
+100418,No,Sales
+100419,No,Research & Development
+100420,No,Research & Development
+100421,No,Research & Development
+100422,Yes,Research & Development
+100423,Yes,Human Resources
+100424,No,Sales
+100425,No,Sales
+100426,No,Research & Development
+100427,No,Research & Development
+100428,No,Sales
+100429,No,Research & Development
+100430,No,Research & Development
+100431,No,Research & Development
+100432,No,Research & Development
+100433,No,Research & Development
+100434,No,Sales
+100435,No,Research & Development
+100436,Yes,Research & Development
+100437,Yes,Research & Development
+100438,No,Sales
+100439,No,Research & Development
+100440,Yes,Research & Development
+100441,Yes,Human Resources
+100442,No,Research & Development
+100443,No,Sales
+100444,Yes,Research & Development
+100445,No,Sales
+100446,No,Sales
+100447,No,Sales
+100448,No,Sales
+100449,No,Research & Development
+100450,No,Research & Development
+100451,No,Sales
+100452,No,Research & Development
+100453,No,Sales
+100454,Yes,Human Resources
+100455,No,Research & Development
+100456,No,Research & Development
+100457,No,Sales
+100458,Yes,Sales
+100459,No,Sales
+100460,No,Research & Development
+100461,No,Sales
+100462,No,Sales
+100463,No,Sales
+100464,Yes,Research & Development
+100465,No,Research & Development
+100466,No,Research & Development
+100467,No,Sales
+100468,No,Sales
+100469,No,Research & Development
+100470,Yes,Sales
+100471,No,Sales
+100472,No,Research & Development
+100473,No,Research & Development
+100474,No,Research & Development
+100475,No,Research & Development
+100476,No,Sales
+100477,No,Research & Development
+100478,No,Human Resources
+100479,No,Sales
+100480,Yes,Research & Development
+100481,Yes,Sales
+100482,No,Research & Development
+100483,Yes,Sales
+100484,No,Research & Development
+100485,No,Sales
+100486,No,Research & Development
+100487,No,Sales
+100488,No,Research & Development
+100489,No,Research & Development
+100490,No,Research & Development
+100491,No,Research & Development
+100492,No,Research & Development
+100493,No,Research & Development
+100494,No,Human Resources
+100495,No,Sales
+100496,Yes,Sales
+100497,No,Sales
+100498,No,Research & Development
+100499,No,Research & Development
+100500,No,Sales
+100501,No,Research & Development
+100502,No,Research & Development
+100503,No,Sales
+100504,No,Research & Development
+100505,Yes,Sales
+100506,No,Research & Development
+100507,No,Research & Development
+100508,No,Sales
+100509,No,Research & Development
+100510,No,Research & Development
+100511,No,Human Resources
+100512,No,Research & Development
+100513,No,Research & Development
+100514,Yes,Research & Development
+100515,Yes,Research & Development
+100516,No,Research & Development
+100517,No,Research & Development
+100518,No,Sales
+100519,No,Sales
+100520,No,Research & Development
+100521,No,Sales
+100522,No,Sales
+100523,No,Research & Development
+100524,No,Research & Development
+100525,No,Research & Development
+100526,Yes,Sales
+100527,No,Research & Development
+100528,No,Sales
+100529,Yes,Sales
+100530,No,Research & Development
+100531,No,Research & Development
+100532,No,Research & Development
+100533,No,Sales
+100534,No,Sales
+100535,No,Research & Development
+100536,No,Human Resources
+100537,No,Sales
+100538,No,Research & Development
+100539,No,Human Resources
+100540,No,Sales
+100541,Yes,Research & Development
+100542,No,Research & Development
+100543,No,Research & Development
+100544,No,Research & Development
+100545,No,Sales
+100546,No,Sales
+100547,No,Sales
+100548,Yes,Research & Development
+100549,No,Sales
+100550,No,Research & Development
+100551,No,Research & Development
+100552,No,Human Resources
+100553,No,Research & Development
+100554,No,Research & Development
+100555,No,Research & Development
+100556,No,Sales
+100557,No,Research & Development
+100558,No,Research & Development
+100559,No,Research & Development
+100560,No,Research & Development
+100561,No,Research & Development
+100562,No,Sales
+100563,Yes,Research & Development
+100564,No,Sales
+100565,No,Sales
+100566,No,Research & Development
+100567,Yes,Sales
+100568,No,Sales
+100569,Yes,Research & Development
+100570,No,Sales
+100571,No,Research & Development
+100572,No,Research & Development
+100573,No,Research & Development
+100574,Yes,Sales
+100575,No,Research & Development
+100576,No,Research & Development
+100577,No,Sales
+100578,No,Research & Development
+100579,No,Research & Development
+100580,No,Research & Development
+100581,No,Sales
+100582,No,Research & Development
+100583,No,Research & Development
+100584,No,Sales
+100585,No,Research & Development
+100586,Yes,Research & Development
+100587,No,Research & Development
+100588,No,Research & Development
+100589,No,Research & Development
+100590,Yes,Research & Development
+100591,No,Research & Development
+100592,Yes,Sales
+100593,No,Research & Development
+100594,No,Research & Development
+100595,No,Research & Development
+100596,Yes,Research & Development
+100597,No,Research & Development
+100598,No,Research & Development
+100599,Yes,Research & Development
+100600,No,Human Resources
+100601,No,Research & Development
+100602,No,Research & Development
+100603,No,Research & Development
+100604,No,Research & Development
+100605,No,Research & Development
+100606,No,Research & Development
+100607,No,Research & Development
+100608,Yes,Sales
+100609,Yes,Sales
+100610,No,Research & Development
+100611,No,Research & Development
+100612,No,Research & Development
+100613,No,Sales
+100614,No,Human Resources
+100615,Yes,Research & Development
+100616,No,Research & Development
+100617,No,Sales
+100618,No,Research & Development
+100619,No,Research & Development
+100620,No,Sales
+100621,No,Research & Development
+100622,No,Sales
+100623,No,Sales
+100624,No,Research & Development
+100625,No,Sales
+100626,No,Sales
+100627,No,Research & Development
+100628,No,Research & Development
+100629,No,Sales
+100630,No,Human Resources
+100631,No,Research & Development
+100632,No,Research & Development
+100633,No,Research & Development
+100634,No,Human Resources
+100635,No,Sales
+100636,No,Research & Development
+100637,Yes,Research & Development
+100638,No,Research & Development
+100639,No,Sales
+100640,No,Research & Development
+100641,No,Research & Development
+100642,No,Sales
+100643,No,Sales
+100644,No,Research & Development
+100645,No,Research & Development
+100646,Yes,Sales
+100647,No,Sales
+100648,No,Research & Development
+100649,No,Sales
+100650,No,Research & Development
+100651,No,Research & Development
+100652,No,Sales
+100653,No,Sales
+100654,No,Research & Development
+100655,No,Human Resources
+100656,No,Human Resources
+100657,Yes,Research & Development
+100658,No,Research & Development
+100659,No,Research & Development
+100660,No,Sales
+100661,Yes,Research & Development
+100662,No,Research & Development
+100663,Yes,Sales
+100664,Yes,Research & Development
+100665,No,Research & Development
+100666,No,Sales
+100667,Yes,Research & Development
+100668,Yes,Research & Development
+100669,No,Research & Development
+100670,Yes,Research & Development
+100671,No,Research & Development
+100672,No,Research & Development
+100673,No,Sales
+100674,No,Research & Development
+100675,No,Research & Development
+100676,No,Sales
+100677,No,Research & Development
+100678,No,Research & Development
+100679,No,Research & Development
+100680,No,Sales
+100681,No,Research & Development
+100682,No,Research & Development
+100683,No,Research & Development
+100684,Yes,Sales
+100685,No,Sales
+100686,No,Sales
+100687,No,Research & Development
+100688,No,Research & Development
+100689,Yes,Sales
+100690,Yes,Research & Development
+100691,No,Research & Development
+100692,No,Research & Development
+100693,No,Research & Development
+100694,Yes,Sales
+100695,No,Research & Development
+100696,Yes,Sales
+100697,No,Research & Development
+100698,No,Sales
+100699,No,Sales
+100700,No,Research & Development
+100701,Yes,Research & Development
+100702,No,Sales
+100703,No,Sales
+100704,No,Sales
+100705,No,Sales
+100706,No,Sales
+100707,Yes,Sales
+100708,No,Research & Development
+100709,No,Sales
+100710,Yes,Research & Development
+100711,No,Sales
+100712,Yes,Research & Development
+100713,No,Research & Development
+100714,No,Research & Development
+100715,No,Research & Development
+100716,No,Research & Development
+100717,No,Research & Development
+100718,No,Research & Development
+100719,No,Research & Development
+100720,No,Sales
+100721,Yes,Research & Development
+100722,No,Research & Development
+100723,No,Research & Development
+100724,No,Research & Development
+100725,No,Research & Development
+100726,Yes,Research & Development
+100727,No,Research & Development
+100728,No,Research & Development
+100729,No,Research & Development
+100730,No,Research & Development
+100731,No,Research & Development
+100732,Yes,Research & Development
+100733,Yes,Research & Development
+100734,No,Research & Development
+100735,No,Research & Development
+100736,No,Research & Development
+100737,No,Research & Development
+100738,No,Research & Development
+100739,No,Research & Development
+100740,No,Research & Development
+100741,No,Research & Development
+100742,No,Sales
+100743,No,Research & Development
+100744,No,Research & Development
+100745,Yes,Research & Development
+100746,No,Research & Development
+100747,No,Research & Development
+100748,No,Sales
+100749,Yes,Sales
+100750,Yes,Sales
+100751,No,Sales
+100752,No,Sales
+100753,Yes,Research & Development
+100754,No,Research & Development
+100755,No,Sales
+100756,No,Sales
+100757,No,Research & Development
+100758,No,Sales
+100759,No,Sales
+100760,No,Human Resources
+100761,No,Sales
+100762,Yes,Research & Development
+100763,Yes,Research & Development
+100764,No,Sales
+100765,No,Sales
+100766,No,Research & Development
+100767,No,Research & Development
+100768,No,Research & Development
+100769,No,Sales
+100770,No,Research & Development
+100771,No,Research & Development
+100772,No,Sales
+100773,No,Research & Development
+100774,No,Research & Development
+100775,No,Research & Development
+100776,No,Sales
+100777,Yes,Sales
+100778,Yes,Research & Development
+100779,No,Research & Development
+100780,Yes,Research & Development
+100781,Yes,Research & Development
+100782,No,Research & Development
+100783,No,Research & Development
+100784,No,Research & Development
+100785,No,Research & Development
+100786,No,Research & Development
+100787,No,Research & Development
+100788,No,Research & Development
+100789,No,Research & Development
+100790,Yes,Human Resources
+100791,No,Research & Development
+100792,Yes,Sales
+100793,Yes,Research & Development
+100794,No,Research & Development
+100795,No,Research & Development
+100796,No,Sales
+100797,Yes,Research & Development
+100798,Yes,Research & Development
+100799,Yes,Research & Development
+100800,No,Research & Development
+100801,Yes,Research & Development
+100802,Yes,Sales
+100803,No,Sales
+100804,No,Research & Development
+100805,No,Research & Development
+100806,No,Sales
+100807,No,Research & Development
+100808,No,Sales
+100809,No,Research & Development
+100810,No,Research & Development
+100811,No,Sales
+100812,No,Sales
+100813,No,Research & Development
+100814,Yes,Research & Development
+100815,No,Research & Development
+100816,No,Research & Development
+100817,No,Research & Development
+100818,No,Research & Development
+100819,No,Sales
+100820,No,Research & Development
+100821,No,Sales
+100822,No,Sales
+100823,No,Research & Development
+100824,No,Research & Development
+100825,No,Research & Development
+100826,No,Research & Development
+100827,No,Human Resources
+100828,No,Research & Development
+100829,Yes,Research & Development
+100830,Yes,Sales
+100831,No,Research & Development
+100832,Yes,Research & Development
+100833,No,Research & Development
+100834,No,Research & Development
+100835,No,Sales
+100836,No,Human Resources
+100837,Yes,Sales
+100838,No,Research & Development
+100839,Yes,Sales
+100840,No,Sales
+100841,No,Research & Development
+100842,No,Research & Development
+100843,Yes,Research & Development
+100844,No,Research & Development
+100845,No,Sales
+100846,No,Research & Development
+100847,No,Research & Development
+100848,No,Research & Development
+100849,No,Research & Development
+100850,Yes,Sales
+100851,No,Sales
+100852,No,Research & Development
+100853,No,Research & Development
+100854,No,Research & Development
+100855,No,Research & Development
+100856,No,Research & Development
+100857,No,Research & Development
+100858,Yes,Research & Development
+100859,No,Research & Development
+100860,No,Research & Development
+100861,Yes,Research & Development
+100862,No,Sales
+100863,No,Research & Development
+100864,No,Human Resources
+100865,Yes,Research & Development
+100866,No,Sales
+100867,No,Sales
+100868,No,Research & Development
+100869,No,Research & Development
+100870,No,Research & Development
+100871,No,Sales
+100872,Yes,Research & Development
+100873,No,Sales
+100874,No,Research & Development
+100875,No,Research & Development
+100876,No,Research & Development
+100877,No,Sales
+100878,No,Research & Development
+100879,No,Human Resources
+100880,No,Sales
+100881,No,Research & Development
+100882,No,Research & Development
+100883,No,Research & Development
+100884,No,Research & Development
+100885,No,Sales
+100886,No,Sales
+100887,No,Research & Development
+100888,No,Research & Development
+100889,No,Sales
+100890,No,Research & Development
+100891,No,Research & Development
+100892,No,Research & Development
+100893,Yes,Research & Development
+100894,No,Research & Development
+100895,No,Research & Development
+100896,No,Research & Development
+100897,No,Research & Development
+100898,No,Sales
+100899,No,Research & Development
+100900,No,Research & Development
+100901,No,Research & Development
+100902,No,Research & Development
+100903,No,Research & Development
+100904,No,Research & Development
+100905,No,Research & Development
+100906,No,Research & Development
+100907,No,Research & Development
+100908,No,Sales
+100909,No,Sales
+100910,No,Research & Development
+100911,No,Research & Development
+100912,Yes,Sales
+100913,No,Research & Development
+100914,Yes,Sales
+100915,No,Research & Development
+100916,Yes,Research & Development
+100917,No,Sales
+100918,No,Sales
+100919,No,Sales
+100920,No,Research & Development
+100921,No,Research & Development
+100922,No,Research & Development
+100923,No,Research & Development
+100924,No,Human Resources
+100925,No,Research & Development
+100926,No,Research & Development
+100927,No,Sales
+100928,No,Research & Development
+100929,Yes,Research & Development
+100930,No,Research & Development
+100931,No,Research & Development
+100932,No,Research & Development
+100933,Yes,Research & Development
+100934,No,Research & Development
+100935,No,Research & Development
+100936,No,Sales
+100937,No,Research & Development
+100938,No,Research & Development
+100939,No,Research & Development
+100940,Yes,Research & Development
+100941,Yes,Research & Development
+100942,No,Research & Development
+100943,No,Research & Development
+100944,No,Human Resources
+100945,No,Research & Development
+100946,No,Research & Development
+100947,Yes,Sales
+100948,Yes,Sales
+100949,No,Research & Development
+100950,No,Research & Development
+100951,No,Sales
+100952,No,Sales
+100953,Yes,Sales
+100954,Yes,Research & Development
+100955,No,Research & Development
+100956,No,Research & Development
+100957,No,Human Resources
+100958,No,Research & Development
+100959,No,Research & Development
+100960,No,Research & Development
+100961,No,Sales
+100962,No,Research & Development
+100963,No,Human Resources
+100964,No,Sales
+100965,No,Sales
+100966,No,Research & Development
+100967,Yes,Research & Development
+100968,No,Research & Development
+100969,No,Sales
+100970,No,Research & Development
+100971,No,Sales
+100972,No,Research & Development
+100973,No,Research & Development
+100974,No,Research & Development
+100975,No,Sales
+100976,Yes,Sales
+100977,No,Research & Development
+100978,No,Research & Development
+100979,No,Research & Development
+100980,No,Research & Development
+100981,Yes,Sales
+100982,Yes,Sales
+100983,No,Research & Development
+100984,No,Research & Development
+100985,No,Sales
+100986,Yes,Research & Development
+100987,No,Sales
+100988,No,Sales
+100989,No,Research & Development
+100990,No,Research & Development
+100991,No,Sales
+100992,No,Sales
+100993,No,Research & Development
+100994,No,Sales
+100995,No,Research & Development
+100996,No,Research & Development
+100997,No,Sales
+100998,Yes,Research & Development
+100999,No,Research & Development
+101000,No,Human Resources
+101001,No,Research & Development
+101002,No,Research & Development
+101003,No,Research & Development
+101004,No,Research & Development
+101005,No,Research & Development
+101006,No,Human Resources
+101007,Yes,Research & Development
+101008,Yes,Research & Development
+101009,No,Research & Development
+101010,No,Research & Development
+101011,No,Research & Development
+101012,No,Sales
+101013,Yes,Sales
+101014,No,Sales
+101015,No,Research & Development
+101016,No,Research & Development
+101017,Yes,Research & Development
+101018,No,Research & Development
+101019,No,Research & Development
+101020,No,Sales
+101021,No,Research & Development
+101022,Yes,Sales
+101023,No,Research & Development
+101024,No,Research & Development
+101025,No,Research & Development
+101026,No,Sales
+101027,No,Sales
+101028,No,Research & Development
+101029,No,Research & Development
+101030,No,Research & Development
+101031,No,Sales
+101032,Yes,Sales
+101033,Yes,Research & Development
+101034,Yes,Research & Development
+101035,No,Research & Development
+101036,No,Human Resources
+101037,Yes,Research & Development
+101038,No,Research & Development
+101039,No,Sales
+101040,Yes,Human Resources
+101041,No,Research & Development
+101042,No,Sales
+101043,No,Research & Development
+101044,No,Research & Development
+101045,No,Research & Development
+101046,No,Research & Development
+101047,No,Research & Development
+101048,No,Sales
+101049,No,Sales
+101050,No,Sales
+101051,No,Research & Development
+101052,No,Sales
+101053,No,Research & Development
+101054,No,Research & Development
+101055,No,Research & Development
+101056,No,Research & Development
+101057,Yes,Sales
+101058,Yes,Sales
+101059,Yes,Sales
+101060,No,Sales
+101061,Yes,Research & Development
+101062,No,Sales
+101063,No,Research & Development
+101064,No,Sales
+101065,No,Human Resources
+101066,No,Research & Development
+101067,No,Research & Development
+101068,No,Sales
+101069,Yes,Research & Development
+101070,No,Research & Development
+101071,No,Sales
+101072,No,Research & Development
+101073,No,Research & Development
+101074,No,Research & Development
+101075,No,Research & Development
+101076,No,Research & Development
+101077,No,Research & Development
+101078,Yes,Research & Development
+101079,No,Research & Development
+101080,No,Research & Development
+101081,No,Sales
+101082,No,Research & Development
+101083,No,Research & Development
+101084,Yes,Research & Development
+101085,No,Sales
+101086,Yes,Research & Development
+101087,No,Research & Development
+101088,No,Sales
+101089,No,Research & Development
+101090,No,Research & Development
+101091,No,Research & Development
+101092,No,Research & Development
+101093,No,Research & Development
+101094,No,Research & Development
+101095,No,Sales
+101096,No,Research & Development
+101097,No,Human Resources
+101098,No,Research & Development
+101099,No,Research & Development
+101100,No,Research & Development
+101101,No,Sales
+101102,No,Research & Development
+101103,No,Sales
+101104,No,Sales
+101105,No,Research & Development
+101106,No,Sales
+101107,Yes,Sales
+101108,No,Human Resources
+101109,No,Research & Development
+101110,No,Sales
+101111,Yes,Research & Development
+101112,Yes,Research & Development
+101113,Yes,Research & Development
+101114,No,Research & Development
+101115,No,Research & Development
+101116,No,Research & Development
+101117,No,Sales
+101118,No,Research & Development
+101119,No,Research & Development
+101120,No,Sales
+101121,No,Sales
+101122,No,Sales
+101123,No,Research & Development
+101124,No,Research & Development
+101125,No,Sales
+101126,No,Research & Development
+101127,No,Sales
+101128,No,Research & Development
+101129,No,Research & Development
+101130,No,Research & Development
+101131,No,Research & Development
+101132,No,Research & Development
+101133,No,Sales
+101134,No,Research & Development
+101135,No,Research & Development
+101136,No,Sales
+101137,Yes,Research & Development
+101138,No,Research & Development
+101139,No,Research & Development
+101140,No,Research & Development
+101141,No,Research & Development
+101142,No,Research & Development
+101143,No,Research & Development
+101144,No,Sales
+101145,No,Sales
+101146,No,Research & Development
+101147,No,Research & Development
+101148,No,Research & Development
+101149,No,Research & Development
+101150,No,Research & Development
+101151,No,Research & Development
+101152,No,Research & Development
+101153,No,Research & Development
+101154,Yes,Sales
+101155,No,Human Resources
+101156,No,Research & Development
+101157,No,Research & Development
+101158,No,Research & Development
+101159,No,Research & Development
+101160,No,Research & Development
+101161,No,Research & Development
+101162,No,Research & Development
+101163,Yes,Sales
+101164,No,Research & Development
+101165,No,Research & Development
+101166,No,Human Resources
+101167,No,Research & Development
+101168,Yes,Sales
+101169,No,Research & Development
+101170,No,Research & Development
+101171,No,Research & Development
+101172,Yes,Research & Development
+101173,No,Sales
+101174,No,Research & Development
+101175,No,Research & Development
+101176,No,Research & Development
+101177,No,Research & Development
+101178,No,Research & Development
+101179,No,Sales
+101180,No,Research & Development
+101181,No,Research & Development
+101182,No,Research & Development
+101183,No,Research & Development
+101184,No,Research & Development
+101185,No,Research & Development
+101186,No,Research & Development
+101187,Yes,Sales
+101188,No,Research & Development
+101189,No,Sales
+101190,No,Sales
+101191,No,Research & Development
+101192,No,Sales
+101193,No,Research & Development
+101194,No,Research & Development
+101195,No,Sales
+101196,No,Research & Development
+101197,No,Sales
+101198,No,Sales
+101199,No,Sales
+101200,No,Research & Development
+101201,No,Human Resources
+101202,Yes,Research & Development
+101203,No,Research & Development
+101204,No,Research & Development
+101205,Yes,Sales
+101206,Yes,Research & Development
+101207,No,Research & Development
+101208,No,Research & Development
+101209,No,Research & Development
+101210,No,Research & Development
+101211,No,Research & Development
+101212,No,Sales
+101213,No,Research & Development
+101214,Yes,Sales
+101215,No,Research & Development
+101216,No,Research & Development
+101217,No,Sales
+101218,No,Research & Development
+101219,No,Sales
+101220,No,Research & Development
+101221,No,Sales
+101222,No,Research & Development
+101223,Yes,Human Resources
+101224,Yes,Sales
+101225,No,Research & Development
+101226,No,Research & Development
+101227,No,Research & Development
+101228,No,Research & Development
+101229,No,Human Resources
+101230,No,Research & Development
+101231,No,Research & Development
+101232,No,Research & Development
+101233,No,Research & Development
+101234,No,Research & Development
+101235,No,Sales
+101236,No,Sales
+101237,Yes,Sales
+101238,Yes,Sales
+101239,No,Research & Development
+101240,No,Research & Development
+101241,No,Research & Development
+101242,No,Sales
+101243,No,Sales
+101244,No,Human Resources
+101245,No,Research & Development
+101246,No,Human Resources
+101247,Yes,Human Resources
+101248,No,Sales
+101249,No,Research & Development
+101250,Yes,Sales
+101251,No,Research & Development
+101252,No,Sales
+101253,No,Research & Development
+101254,No,Sales
+101255,No,Sales
+101256,Yes,Sales
+101257,No,Research & Development
+101258,Yes,Sales
+101259,No,Research & Development
+101260,No,Research & Development
+101261,No,Research & Development
+101262,No,Research & Development
+101263,Yes,Research & Development
+101264,No,Research & Development
+101265,No,Research & Development
+101266,No,Research & Development
+101267,No,Research & Development
+101268,No,Sales
+101269,No,Research & Development
+101270,No,Human Resources
+101271,No,Sales
+101272,Yes,Sales
+101273,No,Research & Development
+101274,Yes,Research & Development
+101275,No,Sales
+101276,No,Research & Development
+101277,No,Sales
+101278,No,Research & Development
+101279,No,Research & Development
+101280,Yes,Research & Development
+101281,No,Human Resources
+101282,Yes,Sales
+101283,No,Research & Development
+101284,No,Research & Development
+101285,No,Research & Development
+101286,No,Sales
+101287,No,Research & Development
+101288,No,Research & Development
+101289,No,Research & Development
+101290,No,Human Resources
+101291,Yes,Research & Development
+101292,Yes,Research & Development
+101293,No,Sales
+101294,No,Research & Development
+101295,No,Research & Development
+101296,No,Sales
+101297,No,Research & Development
+101298,Yes,Human Resources
+101299,Yes,Research & Development
+101300,No,Research & Development
+101301,No,Sales
+101302,No,Sales
+101303,No,Research & Development
+101304,No,Research & Development
+101305,No,Research & Development
+101306,No,Research & Development
+101307,No,Sales
+101308,No,Research & Development
+101309,No,Sales
+101310,No,Sales
+101311,No,Research & Development
+101312,No,Research & Development
+101313,Yes,Human Resources
+101314,Yes,Human Resources
+101315,No,Sales
+101316,No,Research & Development
+101317,No,Sales
+101318,No,Research & Development
+101319,No,Research & Development
+101320,No,Sales
+101321,No,Research & Development
+101322,No,Research & Development
+101323,No,Research & Development
+101324,No,Human Resources
+101325,No,Research & Development
+101326,No,Research & Development
+101327,Yes,Sales
+101328,No,Sales
+101329,No,Sales
+101330,No,Human Resources
+101331,No,Research & Development
+101332,No,Research & Development
+101333,Yes,Research & Development
+101334,Yes,Sales
+101335,No,Research & Development
+101336,No,Research & Development
+101337,No,Research & Development
+101338,No,Sales
+101339,Yes,Sales
+101340,Yes,Research & Development
+101341,No,Sales
+101342,No,Research & Development
+101343,No,Sales
+101344,No,Research & Development
+101345,No,Research & Development
+101346,No,Research & Development
+101347,No,Research & Development
+101348,No,Human Resources
+101349,No,Research & Development
+101350,No,Research & Development
+101351,No,Sales
+101352,No,Research & Development
+101353,No,Research & Development
+101354,Yes,Research & Development
+101355,Yes,Research & Development
+101356,No,Sales
+101357,No,Sales
+101358,No,Research & Development
+101359,No,Sales
+101360,No,Sales
+101361,No,Research & Development
+101362,No,Research & Development
+101363,No,Research & Development
+101364,No,Sales
+101365,No,Sales
+101366,Yes,Sales
+101367,No,Sales
+101368,No,Research & Development
+101369,No,Research & Development
+101370,Yes,Sales
+101371,No,Research & Development
+101372,No,Sales
+101373,No,Research & Development
+101374,No,Research & Development
+101375,No,Sales
+101376,Yes,Research & Development
+101377,No,Research & Development
+101378,No,Research & Development
+101379,No,Sales
+101380,Yes,Human Resources
+101381,No,Sales
+101382,No,Research & Development
+101383,No,Research & Development
+101384,No,Research & Development
+101385,No,Sales
+101386,No,Sales
+101387,No,Research & Development
+101388,No,Research & Development
+101389,No,Research & Development
+101390,No,Research & Development
+101391,Yes,Research & Development
+101392,No,Sales
+101393,No,Sales
+101394,No,Sales
+101395,No,Research & Development
+101396,Yes,Sales
+101397,Yes,Sales
+101398,No,Research & Development
+101399,No,Research & Development
+101400,No,Research & Development
+101401,No,Human Resources
+101402,No,Human Resources
+101403,No,Research & Development
+101404,No,Sales
+101405,No,Research & Development
+101406,No,Research & Development
+101407,No,Research & Development
+101408,No,Research & Development
+101409,No,Research & Development
+101410,No,Research & Development
+101411,No,Sales
+101412,No,Human Resources
+101413,No,Research & Development
+101414,No,Research & Development
+101415,No,Research & Development
+101416,No,Research & Development
+101417,No,Sales
+101418,No,Sales
+101419,No,Research & Development
+101420,No,Research & Development
+101421,No,Research & Development
+101422,No,Research & Development
+101423,No,Research & Development
+101424,No,Research & Development
+101425,No,Research & Development
+101426,No,Research & Development
+101427,No,Research & Development
+101428,No,Research & Development
+101429,No,Sales
+101430,No,Research & Development
+101431,No,Research & Development
+101432,No,Sales
+101433,No,Research & Development
+101434,No,Sales
+101435,No,Sales
+101436,No,Research & Development
+101437,No,Sales
+101438,No,Research & Development
+101439,Yes,Sales
+101440,No,Sales
+101441,No,Research & Development
+101442,No,Research & Development
+101443,Yes,Research & Development
+101444,No,Research & Development
+101445,Yes,Research & Development
+101446,No,Research & Development
+101447,No,Sales
+101448,No,Sales
+101449,No,Sales
+101450,No,Research & Development
+101451,No,Human Resources
+101452,No,Sales
+101453,Yes,Sales
+101454,No,Sales
+101455,No,Sales
+101456,No,Research & Development
+101457,No,Research & Development
+101458,No,Research & Development
+101459,No,Research & Development
+101460,No,Research & Development
+101461,No,Research & Development
+101462,Yes,Sales
+101463,No,Sales
+101464,No,Research & Development
+101465,No,Sales
+101466,No,Research & Development
+101467,No,Research & Development
+101468,No,Research & Development
+101469,No,Sales
+101470,No,Research & Development
