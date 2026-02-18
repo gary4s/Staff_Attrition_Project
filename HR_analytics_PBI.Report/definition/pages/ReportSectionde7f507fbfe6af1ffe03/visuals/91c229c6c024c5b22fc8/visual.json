@@ -1,0 +1,518 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.5.0/schema.json",
+  "name": "91c229c6c024c5b22fc8",
+  "position": {
+    "x": 243.66013071895424,
+    "y": 93.0718954248366,
+    "z": 16000,
+    "height": 621.17647058823525,
+    "width": 1027.9738562091502,
+    "tabOrder": 16000
+  },
+  "visual": {
+    "visualType": "pivotTable",
+    "query": {
+      "queryState": {
+        "Rows": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "Department"
+                }
+              },
+              "queryRef": "Master_Data_Set.Department",
+              "nativeQueryRef": "Department",
+              "active": true
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "JobRole"
+                }
+              },
+              "queryRef": "Master_Data_Set.JobRole",
+              "nativeQueryRef": "Job role",
+              "active": true,
+              "displayName": "Job role"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "MonthlyIncomeBins"
+                }
+              },
+              "queryRef": "Master_Data_Set.MonthlyIncomeBins",
+              "nativeQueryRef": "Monthly income bands",
+              "active": true,
+              "displayName": "Monthly income bands"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "WorkLifeBalanceBins"
+                }
+              },
+              "queryRef": "Master_Data_Set.WorkLifeBalanceBins",
+              "nativeQueryRef": "Work life balance",
+              "active": true,
+              "displayName": "Work life balance"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "JobSatisfactionBins"
+                }
+              },
+              "queryRef": "Master_Data_Set.JobSatisfactionBins",
+              "nativeQueryRef": "Job satisfaction",
+              "active": true,
+              "displayName": "Job satisfaction"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "YearsAtCompany"
+                }
+              },
+              "queryRef": "Master_Data_Set.YearsAtCompany",
+              "nativeQueryRef": "Years at company",
+              "active": true,
+              "displayName": "Years at company"
+            }
+          ]
+        },
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "Attrition_rate"
+                }
+              },
+              "queryRef": "Master_Data_Set.Attrition_rate",
+              "nativeQueryRef": "Attrition rate",
+              "displayName": "Attrition rate"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "Attrition_count"
+                }
+              },
+              "queryRef": "Master_Data_Set.Attrition_count",
+              "nativeQueryRef": "Attrition count",
+              "displayName": "Attrition count"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Index"
+                    }
+                  },
+                  "Function": 5
+                }
+              },
+              "queryRef": "Sum(Master_Data_Set.Index)",
+              "nativeQueryRef": "Employee count",
+              "displayName": "Employee count"
+            }
+          ]
+        }
+      }
+    },
+    "expansionStates": [
+      {
+        "roles": [
+          "Rows"
+        ],
+        "levels": [
+          {
+            "queryRefs": [
+              "Master_Data_Set.Department"
+            ],
+            "identityKeys": [
+              {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "Department"
+                }
+              }
+            ],
+            "isPinned": true
+          },
+          {
+            "queryRefs": [
+              "Master_Data_Set.JobRole"
+            ],
+            "identityKeys": [
+              {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Master_Data_Set"
+                    }
+                  },
+                  "Property": "JobRole"
+                }
+              }
+            ],
+            "isPinned": true
+          },
+          {
+            "queryRefs": [
+              "Master_Data_Set.MonthlyIncomeBins"
+            ],
+            "isPinned": true
+          },
+          {
+            "queryRefs": [
+              "Master_Data_Set.WorkLifeBalanceBins"
+            ],
+            "isPinned": true
+          },
+          {
+            "queryRefs": [
+              "Master_Data_Set.JobSatisfactionBins"
+            ],
+            "isPinned": true
+          },
+          {
+            "queryRefs": [
+              "Master_Data_Set.YearsAtCompany"
+            ],
+            "isCollapsed": true,
+            "isPinned": true
+          }
+        ],
+        "root": {}
+      }
+    ],
+    "objects": {
+      "subTotals": [
+        {
+          "properties": {
+            "backColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 8,
+                      "Percent": 0.6
+                    }
+                  }
+                }
+              }
+            },
+            "applyToHeaders": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "Row"
+          }
+        },
+        {
+          "properties": {
+            "perRowLevel": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "columnSubtotals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {},
+          "selector": {
+            "data": [
+              {
+                "dataViewWildcard": {
+                  "matchingOption": 1
+                }
+              }
+            ],
+            "metadata": "Master_Data_Set.Attrition_rate"
+          }
+        },
+        {
+          "properties": {
+            "bandedRowHeaders": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "rowHeaders": [
+        {
+          "properties": {
+            "showExpandCollapseButtons": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 1,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 0,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "grid": [
+        {
+          "properties": {
+            "outlineStyle": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            },
+            "gridHorizontal": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "gridHorizontalColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 1,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            },
+            "gridVertical": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "gridVerticalColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 1,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            },
+            "outlineColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 1,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "126.52941964313742D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Master_Data_Set.JobRole"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "116.20915032679738D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Master_Data_Set.Department"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "77.98038016949491D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Master_Data_Set.MonthlyIncomeBins"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "82.80390711495741D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Master_Data_Set.WorkLifeBalanceBins"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "68.02008454757618D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Master_Data_Set.YearsAtCompany"
+          }
+        }
+      ],
+      "general": [
+        {
+          "properties": {
+            "layout": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Tabular'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "stylePreset": [
+        {
+          "properties": {
+            "name": {
+              "expr": {
+                "Literal": {
+                  "Value": "'None'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

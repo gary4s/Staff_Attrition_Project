@@ -1,0 +1,19 @@
+model Model
+	culture: en-GB
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-GB
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["Master_Data_Set"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table Master_Data_Set
+ref table DateTableTemplate_cba2452a-ae3e-4df4-b029-2f4715e5bf09
+
+ref cultureInfo en-GB
+

@@ -1,0 +1,1121 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/bookmark/2.0.0/schema.json",
+  "displayName": "Reset Attrition Summary",
+  "name": "Bookmarkb56e59627a29346e6604",
+  "options": {
+    "targetVisualNames": [
+      "cde0c4c500421403cc08"
+    ]
+  },
+  "explorationState": {
+    "version": "1.3",
+    "activeSection": "ReportSection066c8650badc20955ce9",
+    "sections": {
+      "ReportSection066c8650badc20955ce9": {
+        "visualContainers": {
+          "8a30013b8c9cb03bbdb3": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "92bd908f62ed43dac427",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobRole"
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "a0fcb217f4f13821b39c",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "clusteredBarChart",
+              "objects": {},
+              "orderBy": [
+                {
+                  "Direction": 2,
+                  "Expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  }
+                }
+              ],
+              "activeProjections": {
+                "Category": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobRole"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "c7d8dad514673c6c0d02": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "89d1054797ef0dc8454e",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobRole"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "slicer",
+              "objects": {
+                "merge": {
+                  "data": [
+                    {
+                      "properties": {
+                        "mode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "'Dropdown'"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "activeProjections": {
+                "Values": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobRole"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "bf0191b2e53cb560785e": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "6d65bc9dbba53333f0ec",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "MonthlyIncomeBins"
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "42fd6245fd297e878f33",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "clusteredColumnChart",
+              "objects": {},
+              "orderBy": [
+                {
+                  "Direction": 2,
+                  "Expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  }
+                }
+              ],
+              "activeProjections": {
+                "Category": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "MonthlyIncomeBins"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "32c77c6d8e80bbc3e16e": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "be4e03122c64dcefc5c6",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "EducationBins"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "slicer",
+              "objects": {
+                "merge": {
+                  "data": [
+                    {
+                      "properties": {
+                        "mode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "'Dropdown'"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "activeProjections": {
+                "Values": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "EducationBins"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "204d9b5c4826560c0329": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "843244e893a976ea4bb2",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "card",
+              "objects": {},
+              "orderBy": [
+                {
+                  "Direction": 2,
+                  "Expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "aebfefe05e062da67308": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "e5fcd433d6282ff14a20",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "66adbb13f1a2222fe5df",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "WorkLifeBalanceBins"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "clusteredColumnChart",
+              "objects": {},
+              "orderBy": [
+                {
+                  "Direction": 2,
+                  "Expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  }
+                }
+              ],
+              "activeProjections": {
+                "Category": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "WorkLifeBalanceBins"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "4ea0edca7bd11c6aa932": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "01d089d124016f6b7b09",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "f6c1dfc799cee4aa043d",
+                  "type": "Advanced",
+                  "expression": {
+                    "Aggregation": {
+                      "Expression": {
+                        "Column": {
+                          "Expression": {
+                            "SourceRef": {
+                              "Entity": "Master_Data_Set"
+                            }
+                          },
+                          "Property": "DistanceFromHome"
+                        }
+                      },
+                      "Function": 1
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "fdea87d1bdef0123ae22",
+                  "type": "Advanced",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "DistanceFromHome"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "scatterChart",
+              "objects": {},
+              "orderBy": [
+                {
+                  "Direction": 2,
+                  "Expression": {
+                    "Aggregation": {
+                      "Expression": {
+                        "Column": {
+                          "Expression": {
+                            "SourceRef": {
+                              "Entity": "Master_Data_Set"
+                            }
+                          },
+                          "Property": "DistanceFromHome"
+                        }
+                      },
+                      "Function": 0
+                    }
+                  }
+                }
+              ],
+              "activeProjections": {
+                "X": [
+                  {
+                    "Aggregation": {
+                      "Expression": {
+                        "Column": {
+                          "Expression": {
+                            "SourceRef": {
+                              "Entity": "Master_Data_Set"
+                            }
+                          },
+                          "Property": "DistanceFromHome"
+                        }
+                      },
+                      "Function": 1
+                    }
+                  }
+                ],
+                "Category": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "DistanceFromHome"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "7acb9956946c00635c5a": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "83905b8cd434e66e5076",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "faa63b91c26a26524d87",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobSatisfactionBins"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "clusteredColumnChart",
+              "objects": {},
+              "orderBy": [
+                {
+                  "Direction": 2,
+                  "Expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  }
+                }
+              ],
+              "activeProjections": {
+                "Category": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobSatisfactionBins"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "0df64ae3506c9c11c255": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "146e23bd3a43eea84c66",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "BusinessTravel"
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "a0ff79c344f6a04a2b61",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "barChart",
+              "objects": {},
+              "orderBy": [
+                {
+                  "Direction": 2,
+                  "Expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  }
+                }
+              ],
+              "activeProjections": {
+                "Category": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "BusinessTravel"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "d2ba75ce4dd36ba04047": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "8e2eb6760088eb7d123a",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Gender"
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "d2d55fcd9e0ed9afb1d9",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "pieChart",
+              "objects": {},
+              "orderBy": [
+                {
+                  "Direction": 2,
+                  "Expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  }
+                }
+              ],
+              "activeProjections": {
+                "Category": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Gender"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "c2c49c6bc058e9981c63": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "739c082af75d7d944d9f",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "OverTime"
+                    }
+                  },
+                  "howCreated": 0
+                },
+                {
+                  "name": "9723a8dd3abccef14c13",
+                  "type": "Advanced",
+                  "expression": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Attrition_rate"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "treemap",
+              "objects": {},
+              "activeProjections": {
+                "Group": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "OverTime"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "cde0c4c500421403cc08": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "93d61acfdfa7947f75f9",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobSatisfactionBins"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "slicer",
+              "objects": {
+                "merge": {
+                  "data": [
+                    {
+                      "properties": {
+                        "mode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "'Dropdown'"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "activeProjections": {
+                "Values": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobSatisfactionBins"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "85b5ad6a8bcd0ee949c9": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "c9b4782875d2bd1488aa",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "WorkLifeBalanceBins"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "slicer",
+              "objects": {
+                "merge": {
+                  "data": [
+                    {
+                      "properties": {
+                        "mode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "'Dropdown'"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "activeProjections": {
+                "Values": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "WorkLifeBalanceBins"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "1acc563cca49eda231c0": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "9a6627a8880e38a78324",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "EducationField"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "slicer",
+              "objects": {
+                "merge": {
+                  "data": [
+                    {
+                      "properties": {
+                        "mode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "'Dropdown'"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "activeProjections": {
+                "Values": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "EducationField"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "304efcdd28a318b0d702": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "cc2dec4bc13bbab42c70",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "MonthlyIncomeBins"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "slicer",
+              "objects": {
+                "merge": {
+                  "data": [
+                    {
+                      "properties": {
+                        "mode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "'Dropdown'"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "activeProjections": {
+                "Values": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "MonthlyIncomeBins"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "e4edc400e0e94a98604b": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "6754fb8b235a50204a63",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Department"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "slicer",
+              "objects": {
+                "merge": {
+                  "data": [
+                    {
+                      "properties": {
+                        "mode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "'Dropdown'"
+                            }
+                          }
+                        },
+                        "isInvertedSelectionMode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "true"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "activeProjections": {
+                "Values": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "Department"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "ba7808146a607ebc03c1": {
+            "filters": {
+              "byExpr": [
+                {
+                  "name": "5041e064ea61e5057d81",
+                  "type": "Categorical",
+                  "expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobRole"
+                    }
+                  },
+                  "howCreated": 0
+                }
+              ]
+            },
+            "singleVisual": {
+              "visualType": "slicer",
+              "objects": {
+                "merge": {
+                  "data": [
+                    {
+                      "properties": {
+                        "mode": {
+                          "expr": {
+                            "Literal": {
+                              "Value": "'Dropdown'"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "activeProjections": {
+                "Values": [
+                  {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Master_Data_Set"
+                        }
+                      },
+                      "Property": "JobRole"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "e5272bd8163a0cc4b004": {
+            "singleVisual": {
+              "visualType": "textbox",
+              "objects": {}
+            }
+          },
+          "e9c9718b6c30eee0856e": {
+            "singleVisual": {
+              "visualType": "shape",
+              "objects": {}
+            }
+          },
+          "3a3c5d2de08d9a525313": {
+            "singleVisual": {
+              "visualType": "actionButton",
+              "objects": {}
+            }
+          }
+        }
+      }
+    },
+    "objects": {
+      "merge": {
+        "outspacePane": [
+          {
+            "properties": {
+              "expanded": {
+                "expr": {
+                  "Literal": {
+                    "Value": "false"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

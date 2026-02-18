@@ -1,0 +1,168 @@
+cultureInfo en-GB
+
+	linguisticMetadata =
+			{
+			  "Version": "2.0.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "master_data_set.monthlyincomebins": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Master_Data_Set",
+			          "ConceptualProperty": "MonthlyIncomeBins"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Monthly Income": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Monthly income bands": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "master_data_set.worklifebalancebins": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Master_Data_Set",
+			          "ConceptualProperty": "WorkLifeBalanceBins"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Work Life Balance": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "master_data_set.jobsatisfactionbins": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Master_Data_Set",
+			          "ConceptualProperty": "JobSatisfactionBins"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Job Satisfaction": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "master_data_set.yearsatcompany": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Master_Data_Set",
+			          "ConceptualProperty": "YearsAtCompany"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Years at Company": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "master_data_set.jobrole": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Master_Data_Set",
+			          "ConceptualProperty": "JobRole"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Job Role": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "master_data_set.attrition_rate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Master_Data_Set",
+			          "ConceptualProperty": "Attrition_rate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Attrition rate": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "master_data_set.attrition_count": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Master_Data_Set",
+			          "ConceptualProperty": "Attrition_count"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Attrition count": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    }
+			  }
+			}
+		contentType: json
+

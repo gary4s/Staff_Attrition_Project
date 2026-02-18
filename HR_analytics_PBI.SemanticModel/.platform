@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "HR_analytics_PBI"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "397ce205-724c-4cdb-b4b6-1669f0fae267"
+  }
+}
