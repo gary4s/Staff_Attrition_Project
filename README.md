@@ -6,9 +6,11 @@ The dashboard provides a multi‑dimensional view of attrition, enabling users t
 
 # Key Features
 # Attrition Summary
+![Attrition Summary Dashboard](Assets/Summary.png)
 A high‑level overview showing the overall attrition rate based on user‑selected filters. This acts as the entry point for deeper exploration.
 
 # Demographic Breakdown
+![Demographic & Education](Assets/Demo&Ed.png)
 Interactive visuals allow users to compare attrition across:
   Gender
   Job roles
@@ -16,7 +18,9 @@ Interactive visuals allow users to compare attrition across:
   Education and education fields
 
 These views help identify whether specific groups experience disproportionate turnover.
+
 # Employment & Behavioural Factors
+![Employment Summary](Assets/EmpSummary.png)
 The dashboard highlights how job‑related characteristics influence attrition, including:
   Business travel frequency
   Overtime patterns
@@ -27,6 +31,8 @@ The dashboard highlights how job‑related characteristics influence attrition, 
 These insights help organisations understand which working conditions correlate with higher risk.
 
 # Compensation Insights
+![Decompisition Tree](Assets/DecompTree.png)
+![Attrition Summary Table](Assets/tbl.png)
 Attrition is analysed across monthly income bands, revealing how salary levels relate to employee retention.
 
 # What This Project Demonstrates
